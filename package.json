@@ -1,0 +1,22 @@
+{
+  "name": "haloai",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Lightweight desktop AI assistant",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "desktop": "pnpm --filter @haloai/desktop dev",
+    "web": "pnpm --filter @haloai/web dev",
+    "server": "pnpm --filter @haloai/server dev"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0",
+    "typescript": "^5.3.0"
+  },
+  "packageManager": "pnpm@8.15.5",
+  "engines": {
+    "node": "20.x"
+  }
+}
