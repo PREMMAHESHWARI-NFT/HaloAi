@@ -192,7 +192,7 @@ This project uses a modern monorepo architecture managed by **TurboRepo** and **
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Pulkit7070/HaloAI.git
+   git clone https://github.com/MDMOINAKHTARR/HaloAi.git
    cd HaloAI
    ```
 
