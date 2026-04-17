@@ -277,7 +277,7 @@ pnpm build:mac    # macOS only
 A high-level overview of our monorepo structure:
 
 ```text
-Pulkit7070/HaloAI/
+HaloAI/
 ├── apps/
 │   ├── desktop/                      # Electron Desktop App
 │   │   ├── electron/
